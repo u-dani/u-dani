@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dracula)](https://github.com/u-dani/github-readme-stats)
+
 ![Snake animation](https://github.com/u-dani/u-dani/blob/output/github-contribution-grid-snake.svg)
