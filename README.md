@@ -5,7 +5,6 @@
   Olá, eu sou a Dani   
 </h1>
 
-<img src="Images/flower">
 
 
 #gif maozinha acenando
