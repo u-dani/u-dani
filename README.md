@@ -5,7 +5,7 @@
   Oi, eu sou a Dani   
 </h1>
 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=https://mailto:danibezsouza@gmail.com)](https://www.linkedin.com/in/sivramshastri)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=https://mailto:danibezsouza@gmail.com)](https://mailto:danibezsouza@gmail.com)
 
 <div align="center">
   <p>- 🌱 Aprendendo React Js</p>
