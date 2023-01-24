@@ -29,16 +29,15 @@
 </div>
 
 ##
-
+### Minhas Contribuições
 ![Snake animation](https://github.com/u-dani/u-dani/blob/output/github-contribution-grid-snake.svg)
 
+##
+### Enfim, bom dia
 
-#lux arcoiris
-<div aligh="center">
-  <img src="https://media.giphy.com/media/3jDIl2ZLsewtSQQrV9/giphy.gif" width="400">
-</div>
 
-  
-  <img src="https://media.giphy.com/media/qpABVPbN9S33rVESkD/giphy.gif" width="100">
-    <img aligh="right" width="200px" src="https://media.giphy.com/media/T7zQLzMb6faW9Fl7KT/giphy.gif">
+<img aligh="center" src="https://media.giphy.com/media/3jDIl2ZLsewtSQQrV9/giphy.gif" width="50%">
+
+
+
 
