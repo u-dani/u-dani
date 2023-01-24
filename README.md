@@ -20,11 +20,12 @@
   <img width="50px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img width="50px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
 </div>
+
 <br>
 
 <div align="center">
-  <img align="left" width="500px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=u-dani&layout=compact&theme=dracula">
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="300">
+  <img align="left" width="50%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=u-dani&layout=compact&theme=dracula">
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30%">
 </div>
 
 ##
