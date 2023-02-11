@@ -19,6 +19,7 @@
   <img width="50px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img width="50px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img width="50px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
 </div>
 
 <br>
@@ -32,9 +33,7 @@
 ### Minhas Contribuições
 ![Snake animation](https://github.com/u-dani/u-dani/blob/output/github-contribution-grid-snake.svg)
 
-##
-### Enfim, bom dia
-
+### Tenha um bom dia.
 
 <img aligh="center" src="https://media.giphy.com/media/3jDIl2ZLsewtSQQrV9/giphy.gif" width="50%">
 
