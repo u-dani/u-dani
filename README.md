@@ -25,7 +25,6 @@
 <br>
 
 <div align="center">
-  <img align="left" width="50%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=u-dani&layout=compact&theme=dracula">
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30%">
 </div>
 
