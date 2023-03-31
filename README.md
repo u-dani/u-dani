@@ -23,7 +23,7 @@
 </a>
 
 
-## 🛠️ Tecnologias e Ferramentas que eu uso:
+## 🛠 Tecnologias e Ferramentas que eu uso: 
 <div>
   <img width="50px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img width="50px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
