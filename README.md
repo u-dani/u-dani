@@ -1,14 +1,6 @@
 
-<h1>
-  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
-  Oi, eu sou a Dani  
-</h1>
-
-
-## Um pouco sobre mim                 <img align="right" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="260px">
-  - 🌱 Aprendendo Node Js  <br>
-  - 😄 Pronomes: ela/dela <br>
-  - 💻 Desenvolvedora Front End
+<h1> Bom dia Devs! </h1>
+<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> about me
 
 <br>
 
@@ -33,3 +25,5 @@
   <img width="50px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
 </div>
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=u-dani&layout=compact&theme=rose_pine)](https://github.com/u-dani/github-readme-stats)
