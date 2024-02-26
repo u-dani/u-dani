@@ -4,9 +4,6 @@
 - 🌱 Estudando NodeJS & Jest
 - 🎮 Hobbies **FFXIV**
 
-### <img src="https://media.giphy.com/media/LPZv5uwMDKQ5yJ6rK1/giphy.gif" width="25px"> Contato
-[![Gmail Badge](https://img.shields.io/badge/-daniellebezerra.dev-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:daniellebezerra.dev@gmail.com)](mailto:daniellebezerra.dev@gmail.com)
-
 ### <img src="https://media.giphy.com/media/ihZH2vOfn02gs9i1U9/giphy.gif" width="30px"> Tecnologias e Ferramentas
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
